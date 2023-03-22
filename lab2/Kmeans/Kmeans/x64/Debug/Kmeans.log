@@ -1,0 +1,15 @@
+﻿  Kmeans.cpp
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(299,55): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(410,35): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(427,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(455,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(527,20): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(546,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(578,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(637,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(687,34): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(709,6): warning C4101: “j”: 未引用的局部变量
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(942,9): warning C4101: “DiffLabel”: 未引用的局部变量
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(1046,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Study\Programs\Kmeans\Kmeans\Kmeans.h(825): warning C4715: “CKMeans::IsClusterOK”: 不是所有的控件路径都返回值
+  Kmeans.vcxproj -> D:\Study\Programs\Kmeans\x64\Debug\Kmeans.exe
